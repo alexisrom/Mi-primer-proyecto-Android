@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi aplicación</string>
+    <string name="action_settings">Configuración</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primer Fragment</string>
+    <string name="second_fragment_label">Segundo Fragment</string>
+    <string name="next">Siguiete</string>
+    <string name="previous">Anterior</string>
+
+    <string name="hello_first_fragment">Hola primer fragment</string>
+    <string name="hello_second_fragment">Hola segundo fragment. Arg: %1$s</string>
+</resources>
